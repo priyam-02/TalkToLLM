@@ -1,0 +1,5 @@
+# Ignore Python virtual environment
+llm-chat-env/
+__pycache__/
+*.pyc
+.env
