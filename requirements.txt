@@ -1,5 +1,14 @@
+# === Frontend (Streamlit UI) ===
 streamlit
+requests
+
+# === Backend (FastAPI API for Ollama) ===
 fastapi
 uvicorn
-requests
+pydantic
+
+# === Ollama Python client ===
 ollama
+
+# === (Optional) Only needed if exporting JSON (but it's part of Python stdlib) ===
+# json
