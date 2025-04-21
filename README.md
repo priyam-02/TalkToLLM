@@ -129,12 +129,6 @@ You can download conversations from the sidebar in:
 
 ---
 
-## 📝 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## 📬 Contact
 
 Built with ❤️ by [Priyam Shah](https://github.com/priyam-02)  
