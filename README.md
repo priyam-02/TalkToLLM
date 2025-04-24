@@ -4,6 +4,12 @@ An interactive ChatGPT-style interface built with **Streamlit** and **FastAPI**,
 
 ---
 
+## 🎥 Demo
+
+https://github.com/user-attachments/assets/7bf91a8a-a8bb-4f20-8830-694bc19b6a86
+
+
+
 ## 🧩 Features
 
 - 🧠 **System Prompt Setup** – Customize the assistant's role/personality
@@ -126,6 +132,12 @@ You can download conversations from the sidebar in:
 - `.txt` – Simple transcript
 - `.md` – Markdown formatted
 - `.json` – Structured export
+
+
+In Markdown Format:
+
+<img width="1920" alt="Screenshot 2025-04-23 at 10 43 54 PM (2)" src="https://github.com/user-attachments/assets/ff2dcfac-6ea8-4278-ac92-516cf8c5bc4c" />
+
 
 ---
 
